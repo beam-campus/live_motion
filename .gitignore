@@ -30,3 +30,6 @@ live_motion-*.tar
 node_modules
 
 .DS_Store
+
+.vsdcode/
+.history/
